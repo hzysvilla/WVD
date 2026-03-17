@@ -141,12 +141,7 @@ If you have any constructive feedback or bug reports regarding our product, we w
 
 You can also contact us through our official WeChat account for inquiries or to explore business licensing and partnership opportunities.
 
-If you would like to join our community for discussions or have questions to communicate with our technical team, please contact us and add our operations WeChat ID.
-
-
-<h3 align="left">
-  WeChat ID of the staff member:<img src="imgs/wechat2.png" style="width: 200px" alt="wechat2.png" ></a>        WeChat official account：<img src="imgs/wechat1.jpeg" style="width: 200px" alt="wechat1.jpeg" ></a>
-</h3>
+If you would like to join our community for discussions or have questions to communicate with our technical team, please contact us.
 
 
 ## Stargazers over time
