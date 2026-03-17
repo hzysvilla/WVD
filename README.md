@@ -100,11 +100,6 @@ Meanwhile, Yakit implements a reverse connection module based on the Port Protoc
 
 - You can refer to our [official documentation](https://yaklang.io/products/intro/) to learn and use Yakit.
 
-For more technical content, you can check:
-
-[Technical articles](https://yaklang.io/products/article/yakit-technical-study/methodology)
-
-[Whitepaper](https://yaklang.oss-cn-beijing.aliyuncs.com/yakit-technical-white-paper.pdf)
 
 ## Development Setup
 
