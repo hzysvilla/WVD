@@ -8,8 +8,6 @@
   <a href="https://yaklang.io/products/intro/">Official documentation</a> •
   <a href="https://github.com/yaklang/yakit/issues">Issue feedback</a> •
   <a href="https://yaklang.io/">Official website</a> •
-  <a href="#Community">Community</a> •
-  <a href="#Architecture">Architecture</a> 
 </p>
 
 <p align="center">
